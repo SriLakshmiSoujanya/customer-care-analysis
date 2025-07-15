@@ -6,7 +6,7 @@ This project features an **interactive Excel dashboard** to analyze the performa
 
 ## 🎥 Demo Video
 
-▶️ [Click here to watch the dashboard demo](customer_care_service.mp4)
+▶️ [Click here to watch the dashboard demo](customer_care.mp4)
 
 ---
 
